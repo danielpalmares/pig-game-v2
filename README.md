@@ -4,7 +4,7 @@ Pig Game Version 2!!!
 
 Using **ES7+**, that is lots of new features and a completely new design.
 
-## RULES HERE AGAIN SO THAT YOU DON'T FORGET
+## RULES HERE AGAIN SO THAT YOU DON'T FORGET :wink:
 #### GAME RULES :memo:
 - The game has 2 players, playing in rounds.
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his **ROUND** score.
