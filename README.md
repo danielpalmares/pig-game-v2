@@ -17,6 +17,6 @@ Using **ES7+**, that is lots of new features and a completely new design.
 - Players can set the winning score, so they can change the predefined score of *100*. 
 - There are two *dices* now. The player looses his **CURRENT** score when one of them is a 1. 
 
-Check the new version here :point_right:[pig game v2](https://piggamev2-dann.netlify.app/). 
+Check the new version here :point_right:[pig game v2](https://pig-game-v2-dann.netlify.app/). 
 
 Have fun! :wink:
