@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  Pig Game is a dice game in which the first who scores 100 or more points, wins. 🏆 
+  Pig Game is a dice game in which the first who scores 100 or more points, wins 🏆 
 </p>
 
 <p align="center">
@@ -29,8 +29,6 @@
 ## Screenshots
 
 ![Pig Game V2](https://github.com/danielpalmares/pig-game-v2/blob/main/.github/pig-game-v2.png)
-![Pig Game V2](https://github.com/danielpalmares/pig-game-v2/blob/main/.github/pig-game-v2-2.png)
-![Pig Game V2](https://github.com/danielpalmares/pig-game-v2/blob/main/.github/pig-game-v2-3.png)
 
 ---
 
